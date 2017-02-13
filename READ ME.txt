@@ -1,1 +1,4 @@
 Open project in IntelliJ Idea.
+
+It was tested only on Windows.
+Mac OS X was not tested due to lack of hardware.
