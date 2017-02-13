@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ECTSP Selenium private.iml" filepath="$PROJECT_DIR$/ECTSP Selenium private.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ECTSPSeleniumPrivate.iml" filepath="$PROJECT_DIR$/ECTSPSeleniumPrivate.iml" />
+    </modules>
+  </component>
+</project>
